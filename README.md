@@ -13,9 +13,8 @@ This Project Implement an interactive camera for 3D model using Quaternion. It h
 
 ![ArcBall_Crytek_Sponza](https://user-images.githubusercontent.com/93391908/140276386-a607255d-d80d-4223-96e4-9e9261535caa.png)
 
-![ArcBall_Kitchen](https://user-images.githubusercontent.com/93391908/140276782-b04ba748-ea59-47db-831f-6db416c21ba2.png)
+![ArcBall_Fire_Room_1](https://user-images.githubusercontent.com/93391908/140282622-092f9bbe-50c2-4b00-b16a-e1c5edd5b228.png)
 
-
-![ArcBall_SalleDebin](https://user-images.githubusercontent.com/93391908/140276203-84471a28-6127-4d1a-8928-185f00358a1f.png)
-
-
+![ArcBall_StairCase_1](https://user-images.githubusercontent.com/93391908/140282634-2a48c4ce-eccb-433e-a73b-c380ab03723f.png)
+![ArcBall_StairCase_2](https://user-images.githubusercontent.com/93391908/140282637-4dbf747a-1ad3-4f83-b4ba-59b3219b705a.png)
+![ArcBall_StairCase_3](https://user-images.githubusercontent.com/93391908/140282643-203dc644-845c-44fb-b2b1-a3467df5c4c5.png)
