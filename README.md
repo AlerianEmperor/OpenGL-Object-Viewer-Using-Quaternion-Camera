@@ -5,7 +5,7 @@ This Project Implement an interactive camera for 3D model using Quaternion. It h
 
 - Rotate Model Freely
 - Scaling
-- Moving
+- Moving 
 
 # Gallery 
 
